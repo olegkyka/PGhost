@@ -1,0 +1,7 @@
+run start.py with python3 to start the tool not with python or python2 
+youtube: how to hack and code
+git hub repository : /Mahmoud7Osman
+Don't use CTRL+C (keyboard_interrupt) to exit or tool will crash
+use 99 in main menu to exit
+_______________________________________
+GOOD--LUCK..

