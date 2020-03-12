@@ -10,8 +10,10 @@ def run(startup):
      import subprocess
      from time import sleep
      os.system('clear')
-     print (red+'getting ready....')
+     print (red+'Welcome to PGhost Console')
+     print ('Please wait...)
      sleep(3)
+     os.system('clear')
      jump=yellow+'Starting in '
      os.system('clear')
      print (jump,5)
@@ -31,21 +33,20 @@ def run(startup):
      os.system('clear')
      print (jump,0)
      sleep(1)
+     print (green+'Console are Initiallized waiting system to run it....')
+     sleep(3)
      os.system('clear')
-     print (green+'Console Initiallized')
-     sleep(1)
-
      for i in range (0,50):
-        print (blue+'Running console... \ ')
+        print (blue+'Running PGhost console... \ ')
         sleep(0.03)
         os.system('clear')
-        print (red+'Running console... | ')
+        print (red+'Running PGhost console... | ')
         sleep(0.03)
         os.system('clear')
-        print (green+'Running console... / ')
+        print (green+'Running PGhost console... / ')
         sleep(0.03)
         os.system('clear')
-        print (white+'Running console... - ')
+        print (white+'Running PGhost console... - ')
         sleep(0.03)
         os.system('clear')
 
