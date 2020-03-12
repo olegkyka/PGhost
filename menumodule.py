@@ -95,8 +95,8 @@ def stm(console):
       q=input ('Do you want to update PGhost? [Y/n] ')
       if q=='y':
          print ('Checking for updates........')
-         os.system('cd ..&& rm -r PGhost')
-         os.system('git clone https://www.github.com/Mahmoud7Osman/PGhost.git')
+         os.system('cd ..&& rm -r PGhost&&git clone https://www.github.com/Mahmoud7Osman/PGhost.git')
+        # os.system('git clone https://www.github.com/Mahmoud7Osman/PGhost.git')
          os.system('clear')
          print ('Please restart PGconsole')
          print (blue+'Updated. Press Enter to exit ')
