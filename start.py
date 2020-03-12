@@ -11,7 +11,7 @@ def run(startup):
      from time import sleep
      os.system('clear')
      print (red+'Welcome to PGhost Console')
-     print ('Please wait...)
+     print ('Please wait...')
      sleep(3)
      os.system('clear')
      jump=yellow+'Starting in '
